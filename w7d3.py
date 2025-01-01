@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd
 
 data = {'Task': ['Finish project', 'Read book', 'Go shopping'],
 'Status': ['Completed', 'Pending', 'Pending']}
