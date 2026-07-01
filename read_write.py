@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd
 import numpy as np
 
 # data = pd.read_csv('data/people-100.csv')
